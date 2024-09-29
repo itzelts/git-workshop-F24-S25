@@ -1,4 +1,4 @@
-# T4SG Git Workshop (F23-S24) Activity
+# T4SG Git Workshop (F24-S25) Activity
 
 This activity consists of a series of small exercises to apply the concepts in the workshop slides in practice. In the activity, you will:
 
@@ -27,7 +27,7 @@ SSH. From there, in your terminal, run
 git clone <git@github.com:USER-NAME/REPOSITORY-NAME.git>
 
 # e.g cloning the original repository
-git clone git@github.com:hcs-t4sg/git-workshop-F23-S24.git
+git clone git@github.com:hcs-t4sg/git-workshop-F24-S25.git
 ```
 
 After cloning, open the repo in you preferred code editor (i.e. VS Code), and in your terminal, enter the directory
@@ -39,7 +39,7 @@ ls
 cd <repo_name>
 
 # e.g.
-cd git-workshop-F23-S24
+cd git-workshop-F24-S25
 ```
 
 #### Exercise 2: Create a Branch and Add a Feature
